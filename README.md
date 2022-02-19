@@ -23,4 +23,6 @@ The current idea (it can change) is to have a mirror do all intake of patient st
 **Hardware Ideas**:  Biodata based on the strength of the central nervous system.   Weight monitor: https://renpho.com/products/smart-body-fat-scale-basic?variant=32784789471317&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQiAxc6PBhCEARIsAH8Hff2zWB0chw_3wOhVw4cpgQ75aJQXeW4SaBWqqC0vlLXaPwCBo97uEWwaAqKiEALw_wcB 
 
 **Blood Pressure monitor**: Cuffs and intergrated sensors within the cuffs. 
+
+
 **Interial Sensors**
