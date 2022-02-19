@@ -26,3 +26,5 @@ The current idea (it can change) is to have a mirror do all intake of patient st
 
 
 **Interial Sensors**
+
+**Digital "Smell"** 
