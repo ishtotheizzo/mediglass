@@ -1,30 +1,70 @@
-# mediglass
-Open Source Medical Mirror 
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Purpose 
+## Available Scripts
 
-The purpose of this project is to provide an open source triaging tool for medical professionals to facilitate the intake and triage of patients.  
+In the project directory, you can run:
 
-# Concept 
+### `npm start`
 
-The current idea (it can change) is to have a mirror do all intake of patient stats:  Within the mirror there will be three main components: 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-1. Input device itself
-2. Software running on the hardware // running the ML model 
-3. Application software 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-![image](https://user-images.githubusercontent.com/90342441/150229839-9ef076f5-c288-436a-8ef4-b0ec5a550418.png)
-![image](https://user-images.githubusercontent.com/90342441/150229879-2819b3e2-0188-4b82-bf6c-d0ea050d9519.png)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-**Hardware Ideas**:  Biodata based on the strength of the central nervous system.   Weight monitor: https://renpho.com/products/smart-body-fat-scale-basic?variant=32784789471317&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQiAxc6PBhCEARIsAH8Hff2zWB0chw_3wOhVw4cpgQ75aJQXeW4SaBWqqC0vlLXaPwCBo97uEWwaAqKiEALw_wcB 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-**Blood Pressure monitor**: Cuffs and intergrated sensors within the cuffs. 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-**Interial Sensors**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-**Digital "Smell"** 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
