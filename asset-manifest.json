@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mediglass/static/css/main.073c9b0a.css",
-    "main.js": "/mediglass/static/js/main.4f434716.js",
+    "main.js": "/mediglass/static/js/main.7e98cdfe.js",
     "static/js/787.cb565a50.chunk.js": "/mediglass/static/js/787.cb565a50.chunk.js",
     "index.html": "/mediglass/index.html",
     "main.073c9b0a.css.map": "/mediglass/static/css/main.073c9b0a.css.map",
-    "main.4f434716.js.map": "/mediglass/static/js/main.4f434716.js.map",
+    "main.7e98cdfe.js.map": "/mediglass/static/js/main.7e98cdfe.js.map",
     "787.cb565a50.chunk.js.map": "/mediglass/static/js/787.cb565a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4f434716.js"
+    "static/js/main.7e98cdfe.js"
   ]
 }
